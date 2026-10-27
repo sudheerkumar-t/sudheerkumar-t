@@ -107,4 +107,3 @@ F1-score, IoU), and data validation / quality checks.
 
 - Finishing RAG retrieval, grounded answers, and evals in `rag-evals`
 - Then: Agentic AI workflow, then LLMOps for production GenAI
-- Targeting US AI/ML roles in GenAI and Agentic AI, with H1B sponsorship
