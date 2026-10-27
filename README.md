@@ -48,32 +48,12 @@ embeddings by default.
 
 ## Experience
 
-**Apple, California — AI/ML Engineer, GenAI & Agentic AI (Aug 2026 – Present)**
+**Apple, California — AI/ML Engineer, GenAI & Agentic AI (Present)**
 Generative AI and Agentic AI supporting Product Lifecycle Management (PLM),
 intelligent enterprise search, knowledge retrieval, and workflow automation.
 RAG pipelines with Elasticsearch, Claude-powered agents via Model Context
 Protocol (MCP), and LLM evaluation frameworks for retrieval quality and
 response groundedness.
-
-**UBS Bank, New York City, NY — Generative AI / LLM Engineer (Sep 2025 – Present)**
-Enterprise MLOps and Generative AI platforms on Microsoft Azure, supporting
-risk analytics, fraud detection, customer intelligence, and AI-driven
-business applications. Azure OpenAI, Azure AI Search, LangChain / LangGraph /
-LlamaIndex, RAG and autonomous agents, with MLflow, AKS, observability,
-security and governance for banking compliance.
-
-**Amazon, India — Data Scientist / ML Engineer (Nov 2019 – Jul 2023)**
-Scalable ML for personalization, recommendations, forecasting, and logistics
-intelligence across global e-commerce. 20+ production ML models, 200+
-predictive features, 100M+ records processed with Spark / PySpark, logistics
-ETA prediction accuracy improved by 22%, and distributed Spark workloads
-optimized to reduce feature engineering and training time by 40%.
-
-**Google India Pvt Ltd (Waymo initiative), India — Junior Data Scientist (Feb 2017 – Oct 2019)**
-Data analysis and ML workflows for autonomous driving datasets — LiDAR,
-camera, GPS and vehicle telemetry — including object classification,
-anomaly detection, perception model evaluation (Precision, Recall,
-F1-score, IoU), and data validation / quality checks.
 
 ## Skills
 
